@@ -4,7 +4,7 @@ module.exports = {
     description: `A family blog.`,
     author: "Patrick Winters"
   },
-  pathPrefix: "/blog.lovewinters.net",
+  // pathPrefix: "/blog.lovewinters.net",
   plugins: [
     `gatsby-plugin-react-helmet`,
     `gatsby-transformer-remark`,
