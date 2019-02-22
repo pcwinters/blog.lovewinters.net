@@ -15,12 +15,7 @@ exports.onCreateNode = ({ node, getNode, boundActionCreators }) => {
 const QUERY = `{
   allMarkdownRemark(
     sort: {fields: [frontmatter___date], order: DESC}, 
-      ${
-        process.env.NODE_ENV === 'production' ? 
-        'filter: {frontmatter: {draft: {ne: true}}}' : 
-        ''
-      }
-      limit: 1000
+    limit: 1000
   ) {
     edges {
       node {
