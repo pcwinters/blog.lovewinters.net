@@ -1,12 +1,21 @@
 import React from "react";
 
+import Layout from "../components/layout"
+
 export default ({ data }) => {
     const post = data.markdownRemark;
     return (
-        <div>
+        <Layout>
             <h1>{post.frontmatter.title}</h1>
+            <h4 class="metadata">
+              <>
+                {post.frontmatter.author && <span> By {post.frontmatter.author}</span>}
+                {post.frontmatter.date && <span> On {post.frontmatter.date}</span>}
+                
+              </>
+            </h4>
             <div dangerouslySetInnerHTML={{ __html: post.html }} />
-        </div>
+        </Layout>
     );
 };
 
@@ -15,7 +24,9 @@ export const query = graphql`
     markdownRemark(fields: { slug: { eq: $slug } }) {
       html
       frontmatter {
-        title
+        title,
+        date,
+        author
       }
     }
   }

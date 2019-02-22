@@ -4,6 +4,9 @@ module.exports = {
     description: `A family blog.`,
     author: "Patrick Winters"
   },
+  mapping: {
+    "MarkdownRemark.frontmatter.author": `AuthorYaml`,
+  },
   // pathPrefix: "/blog.lovewinters.net",
   plugins: [
     `gatsby-plugin-react-helmet`,
