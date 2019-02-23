@@ -1,6 +1,6 @@
 import React from "react"
 import { Link } from "gatsby"
-
+import moment from "moment"
 import Layout from "../components/layout"
 import Image from "../components/image"
 import SEO from "../components/seo"
@@ -22,8 +22,9 @@ export default ({data}) => (
         >
           <h3 style={{ marginBottom: '4px' }}>
             {node.frontmatter.title}{" "}
-            <span style={{ color: "#BBB" }}>— {node.frontmatter.date}</span>
+            
           </h3>
+          <div>{moment(node.frontmatter.date).format("LL")}</div>
         </Link>
           <p>{node.excerpt}</p>
       </div>

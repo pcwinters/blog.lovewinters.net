@@ -1,5 +1,5 @@
 import React from "react";
-
+import moment from "moment";
 import Layout from "../components/layout"
 
 export default ({ data }) => {
@@ -10,7 +10,7 @@ export default ({ data }) => {
             <h4 class="metadata">
               <>
                 {post.frontmatter.author && <span> By {post.frontmatter.author}</span>}
-                {post.frontmatter.date && <span> On {post.frontmatter.date}</span>}
+                {post.frontmatter.date && <span> On {moment(post.frontmatter.date).format("LL")}</span>}
                 
               </>
             </h4>
