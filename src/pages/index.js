@@ -7,7 +7,7 @@ import SEO from "../components/seo"
 
 export default ({data}) => (
   <Layout>
-    <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
+    <SEO title="Love-Winters Family Blog" keywords={[]} />
     <div style={{ maxWidth: `800px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
