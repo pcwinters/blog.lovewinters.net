@@ -1,6 +1,7 @@
 import React from "react";
 import moment from "moment";
 import Layout from "../components/layout"
+import {Link} from "gatsby";
 
 export default ({ data }) => {
     const post = data.markdownRemark;
@@ -15,6 +16,7 @@ export default ({ data }) => {
               </>
             </h4>
             <div dangerouslySetInnerHTML={{ __html: post.html }} />
+            <Link to="/">Back</Link>
         </Layout>
     );
 };
