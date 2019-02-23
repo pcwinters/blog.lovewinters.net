@@ -11,8 +11,8 @@ export default ({data}) => (
     <div style={{ maxWidth: `960px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
-    <p>Welcome to our family blog.</p>
-    
+    <p>Welcome to our family blog. We've been experiencing complicated changes in our lives, and we hope this helps keep our friends and family informed.</p>
+    <hr/>
     <h4>{data.allMarkdownRemark.totalCount} Posts</h4>
     {data.allMarkdownRemark.edges.map(({ node }) => (
       <div key={node.id}>
