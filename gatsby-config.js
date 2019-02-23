@@ -1,8 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `blog.lovewinters.net`,
-    description: `A family blog.`,
-    author: "Patrick Winters"
+    title: `Love-Winters Family Blog`,
+    description: `Updates our about our family.`,
+    author: "Patrick Winters",
+    siteUrl: `https://blog.lovewinters.net`
   },
   mapping: {
     "MarkdownRemark.frontmatter.author": `AuthorYaml`,
@@ -39,6 +40,9 @@ module.exports = {
         icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
       },
     },
+    {
+      resolve: `gatsby-plugin-feed`
+    }
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.app/offline
     // 'gatsby-plugin-offline',
