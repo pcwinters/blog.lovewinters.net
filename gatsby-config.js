@@ -41,7 +41,37 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-feed`
+      resolve: `gatsby-plugin-feed`,
+      options: {
+        feeds: [
+          {
+            query: `
+            {
+              allMarkdownRemark(
+                limit: 1000,
+                sort: {order: DESC, fields: [frontmatter___date]},
+                filter: {frontmatter: {draft: {ne: true}}}
+              ) {
+                edges {
+                  node {
+                    excerpt
+                    html
+                    fields {
+                      slug
+                    }
+                    frontmatter {
+                      title
+                      date
+                    }
+                  }
+                }
+              }
+            }            
+            `,
+            output: `rss.xml`
+          },
+        ]
+      }
     }
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.app/offline

@@ -12,23 +12,30 @@ exports.onCreateNode = ({ node, getNode, boundActionCreators }) => {
         })
     }
 };
+const QUERY = `{
+  allMarkdownRemark(
+    sort: {fields: [frontmatter___date], order: DESC}, 
+      ${
+        process.env.NODE_ENV === 'production' ? 
+        'filter: {frontmatter: {draft: {ne: true}}}' : 
+        ''
+      }
+      limit: 1000
+  ) {
+    edges {
+      node {
+        fields {
+          slug
+        }
+      }
+    }
+  }
+}`;
 
 exports.createPages = ({ graphql, boundActionCreators }) => {
     const { createPage } = boundActionCreators
     return new Promise((resolve, reject) => {
-        graphql(`
-      {
-        allMarkdownRemark {
-          edges {
-            node {
-              fields {
-                slug
-              }
-            }
-          }
-        }
-      }
-    `).then(result => {
+        graphql(QUERY).then(result => {
                 result.data.allMarkdownRemark.edges.forEach(({ node }) => {
                     createPage({
                         path: node.fields.slug,
