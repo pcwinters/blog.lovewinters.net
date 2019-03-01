@@ -1,7 +1,7 @@
 import React from "react";
 import moment from "moment";
 import Layout from "../components/layout"
-import {Link} from "gatsby";
+import {Link,  graphql} from "gatsby";
 
 export default ({ data }) => {
     const post = data.markdownRemark;
