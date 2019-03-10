@@ -1,6 +1,6 @@
 ---
 title: A Trip to Philadelphia to Gather More Information
-date: "2019-03-10"
+date: "2019-03-09"
 author: Patrick Winters
 draft: false
 ---
