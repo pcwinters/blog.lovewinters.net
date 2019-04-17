@@ -4,10 +4,9 @@ date: "2019-04-06"
 author: Patrick Winters
 draft: false
 ---
+This is **Act One**, where our lives changed.
 
 For posterity, I've tried to write down and date everything that happened and led to diagnosing and treating Aurelia. This will be a _long_, three or four act post, mostly for me and my family; but I've wondered if it would help others that have or have gone through something similar. Since January 7th, 2019, we've been through a whirlwind of events and emotions that I have found difficult to digest. There were so many little details that I've probably lost memory of, but I've tried my best to reconstruct the timeline and include my thought process through it all.
-
-This is **Act One**, where our lives changed.
 
 ---
 
