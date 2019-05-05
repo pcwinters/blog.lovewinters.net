@@ -85,3 +85,10 @@ The preliminary genetic report was made available to our neurologist relatively 
 Additionally, we were made aware of a clinical research trial in Philadelphia that had just closed. We planned to contact the Children's Hospital there (CHOP) as soon as possible and see if they could provide any recommendations or assistance. We were to meet back with our neurologist in no longer than two weeks to build a plan and discuss what she could dig up.
 
 I was devastated. There's no pretending otherwise. But, I had _something_ to direct my energy towards. I had been given a name of what I knew only as fear. It was a relief in some ways, another paradox.
+
+## Edits
+Some things I remember that I didn't add in the first pass.
+
+* Dr. Pizoli said that we were looking at a "formidable foe" when she reviewed the MRI with us.
+* I watched all five Jim Gaffigan specials, one each night. I remember being really grateful to find something that helped me relax.
+* My dad and mother-in-law came to visit
