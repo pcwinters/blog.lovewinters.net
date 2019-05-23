@@ -74,7 +74,7 @@ As a side note, I had called Dr. Fatemi's office at the Kennedy Krieger Institut
 
 ### A Frantic Plea for Help - Evening of February 8th
 
-When Friday evening rolled around, I checked out of the family routine. I decided that I *had* to do something and got started immediately after work. I sat on the couch downstairs, while everyone else ate dinner and did bedtime, and began to make a list of people to contact. I started with every member of the United Leukodystrophy Foundation's medical advisory board, and began including authors from anti-JAK research papers that I thought could be relevant. Dr. Goldbach-Mansky had told me that she was aware that some patients had achieved private insurance approval/coverage of the drug, and that made me think some of the doctors involved might be using this drug outside of clinical trials.
+When Friday evening rolled around, I checked out of the family routine. I decided that I *had* to do something and got started immediately after work. I sat on the couch downstairs, while everyone else ate dinner and did bedtime, and began to make a list of people to contact. I started with every member of the United Leukodystrophy Foundation's medical advisory board, and began including authors from anti-JAK research papers that I thought could be relevant. Dr. G had told me that she was aware that some patients had achieved private insurance approval/coverage of the drug, and that made me think some of the doctors involved might be using this drug outside of clinical trials.
 
 I wrote a lot of e-mails that night, trying to stay professional but understanding that this was really a last ditch effort. I had also been asking parents in the support group whether any of them had any other ideas or people to contact. During the week I had contacted a doctor from a different children's hospital based on their advice, and this evening I received another name that I reached out to.
 
@@ -90,7 +90,7 @@ However, I knew that this drug therapy was complex and required careful and cons
 
 > Right now, Aurelia has no acceptable options and continues to worsen. We're willing to do whatever possible and pay whatever it costs out of pocket to make this happen at Duke. The risks of not treating her far outweigh the risks inherent to anti-JAK therapy. I'm guaranteed to lose my daughter in mind if not body. Can you help us make something happen?"
 
-**To Dr. Kurtzberg:**
+**To Dr. K:**
 
 I hadn't spoken to her in a little over two weeks, when she had wished us luck after hearing that some preliminary genetic results were communicated to our doctor over the phone. I knew that her specialty wasn't really relevant to this, but I hoped that she might be able to advocate for us.
 
@@ -118,7 +118,7 @@ This was just another moment in a serious of traumatic highs and lows that broug
 
 ### Logistics - February 10th - 11th
 
-A few important things happened on Sunday. It was clear that Auri's situation had escalated over the weekend. The chair of pediatrics at Duke replied to me that she was personally reaching out to Dr. Goldbach-Mansky, whom she had worked with in the past. She assured me, "please know we do understand the urgency to get her the right care." I didn't understand the gravity of her involvement and _almost_ kept pushing. Natalie's sister pointed out how significant this development was, and even Dr. Goldbach-Mansky expressed the same sentiment. I kept my mouth shut and simply said thank you. I was in a _panic_ at the dinner table, wondering what was happening and whether this was going to be a breakthrough. I didn't eat. I just paced in the dining room.
+A few important things happened on Sunday. It was clear that Auri's situation had escalated over the weekend. The chair of pediatrics at Duke replied to me that she was personally reaching out to Dr. G, whom she had worked with in the past. She assured me, "please know we do understand the urgency to get her the right care." I didn't understand the gravity of her involvement and _almost_ kept pushing. Natalie's sister pointed out how significant this development was, and even Dr. G expressed the same sentiment. I kept my mouth shut and simply said thank you. I was in a _panic_ at the dinner table, wondering what was happening and whether this was going to be a breakthrough. I didn't eat. I just paced in the dining room.
 
 In the evening on Sunday, I also heard from another doctor elsewhere about the possibility of doing anti-JAK therapy. This felt like a backup plan, but I started signing authorization forms to send medical records and began a back and forth e-mail chain that kept me up until midnight. By the end of the weekend, we had arranged a clinic visit with Dr. K on Tuesday and were developing a promising lead. Monday was calm. I think I went to work, watched the clock, and hoped we would receive good news on Tuesday.
 
