@@ -92,3 +92,4 @@ Some things I remember that I didn't add in the first pass.
 * Dr. Pizoli said that we were looking at a "formidable foe" when she reviewed the MRI with us.
 * I watched all five Jim Gaffigan specials, one each night. I remember being really grateful to find something that helped me relax.
 * My dad and mother-in-law came to visit
+* One day we went somewhere with the kids to meet their cousins. I put on Lady Gaga in the car thinking it would lift our sprits. Imagine hearing [Joanne](https://www.youtube.com/watch?v=8ll04Zzw5UM). I've never held Natalie's hand so tightly.
