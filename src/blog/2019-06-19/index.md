@@ -5,6 +5,8 @@ author: Patrick Winters
 draft: false
 ---
 
+![Kiddos](./window.jpg)
+
 The 15th of June marked four months of Aurelia's treatment with Baricitinib. When her treatment started, we were given the expectation that it might take this long to know whether Auri would tolerate this drug and respond to it favorably. Since she began, we've been to Duke every two weeks and subjected her to regular blood draws and lab work. Well, it _has_ gone well enough and we're celebrating this milestone and spacing out her followups moving forward. My understanding of her condition and my expectations and hopes for the future have become more grounded. Without a doubt, we and Auri remain remarkably fortunate that she's either in the minority of AGS victims with some semblance of normalcy or that this drug and her treatment have saved her life. Although I have my suspicions, we don't know which it is. It also doesn't seem to matter very much right now. Auri and the ensemble of professionals that work with her day in and day out communicate their optimism that the small steps she's taking and subtle improvements we're observing are laying the foundation for her continued recovery.
 
 ## Weathering Storms
