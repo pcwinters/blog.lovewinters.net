@@ -3,6 +3,7 @@ title: How it Happened - Act Two
 date: "2019-04-16"
 author: Patrick Winters
 draft: false
+private: true
 ---
 
 This is **Act Two**, where we received a diagnosis.

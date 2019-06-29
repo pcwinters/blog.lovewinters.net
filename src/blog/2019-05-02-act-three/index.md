@@ -3,6 +3,7 @@ title: How it Happened - Act Three
 date: "2019-05-02"
 author: Patrick Winters
 draft: false
+private: true
 ---
 This is **Act Three**, where we managed to secure treatment for Auri.
 

@@ -12,6 +12,7 @@ export default ({data}) => (
       <Image />
     </div>
     <p>Welcome to our family blog. We've been experiencing complicated changes in our lives, and we hope this helps keep our friends and family informed.</p>
+    <p>You can contact me at "patrick [at] lovewinters.net" if you're a parent of an affected child and want any help, support, or information. I've also put together a <a href="./antiJAKGuide/">Anti JAK Guide</a> with everything I know as of May 2019 about the research and logistics of the experimental treatment that my daughter is benefiting from.</p>
     <hr/>
     <h4>{data.allMarkdownRemark.totalCount} Posts</h4>
     {data.allMarkdownRemark.edges.map(({ node }) => (
@@ -36,7 +37,7 @@ export const query = graphql`
   query IndexQuery {
     allMarkdownRemark(
       sort: {fields: [frontmatter___date], order: DESC}
-      filter: {frontmatter: {draft: {ne: true}}}
+      filter: {frontmatter: {draft: {ne: true}, private: {ne: true}}}
       limit: 1000
     ) {
       totalCount
