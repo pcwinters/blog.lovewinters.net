@@ -29,14 +29,14 @@ Natalie's mother, Hilda, also came to visit. She spent a lot of time with Max an
 
 ![Dinner](dinner.jpg)
 
-Last but not least, my dad came this past week. We saw him both in January, before we knew exactly what terrible thing was happening, and in Philadelphia in March, where we travelled after starting Auri's medicine to consult with an expert. Fortunately, we were able to do fun things like visit the big Raleigh sun flower field, spend a day at the pool, and go out for pizza and ice cream.
+Last but not least, my dad came this past week. We saw him both in January, before we knew exactly what terrible thing was happening, and in Philadelphia in March, where we travelled after starting Auri's medicine to consult with an expert. Fortunately, we were able to do fun things like visit the big Raleigh sunflower field, spend a day at the pool, and go out for pizza and ice cream.
 
 ![Grandpa](grandpa.jpg)
 ![Lennox excited about sunflowers](lennox_sunflowers.jpg)
 
 ## Independence
 
-Previously, I wrote about milestones and how we don't seem to have any more. Well, this past month I've decided to set goals instead. For much longer than me, Natalie has been resolute in her belief that Auri will be walking. I think she might, but I have a different belief now. I'm certain that Auri will be independent. I don't know how long it will take, and I don't what it will look like; but Auri will be independent.
+Previously, I wrote about milestones and how we don't seem to have any more. Well, this past month I've decided to set goals instead. For much longer than me, Natalie has been resolute in her belief that Auri will be walking. I think she might, but I have a different belief now. I'm certain that Auri will be independent. I don't know how long it will take, and I don't know what it will look like; but Auri will be independent.
 
 ![Playing alone](stander.jpg)
 
@@ -68,3 +68,9 @@ This spring was supposed to be the year that I finally finished my master piece 
 ![peaches](peaches.jpg)
 
 We snagged a few freezer bags worth of peaches that made their way into some unofficial Howling Cow ice cream, courtesy of our friends. And, we harvested a great deal of figs this year. All the kids helped with [washing figs](https://photos.app.goo.gl/UuVxdDiPoKA1JwjQ6) that made their way into some jam and baked desserts.
+
+## Community
+
+I hope to get involved in the AGS and rare disease community in the coming months and years. I feel the need to apply myself to something more important than business software. A couple weeks ago, I contacted the AGS non-profit to see if there was any way I could help. Since I have some background in computational biology, I thought that I might have something unique to offer. We'll see what I can do in the near term, but I'm _certain_ that I'll be redirecting myself in the coming years.
+
+On the facebook, there's an AGS family group that I've mentioned before. Through it, I sometimes learn about other children with stories similar to Auri's. In the past month, I've been made aware of two more children whose disease presented sometime between 1 and 1.5 years of age that are doing well on baricitinib. They've been treated for about a year already, and they've both seen significant improvements. Their outcomes and severity of injury, however, are different. One can speak freely and naturally, despite having lost it all for over six months. Neither can walk right now, and I fear both have had more severe loss of motor function. Both had interventions within a few months. As far as I can tell, Auri may have had the fastest intervention of the children being treated with this drug, getting diagnosed and treated in under two months. Unfortunately, that doesn't seem to dictate what will happen because there's so much variability in the disease. It does give me hope, though, that she could have one of the more remarkable recoveries. In the coming years, we shall see.
