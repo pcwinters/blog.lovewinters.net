@@ -2,7 +2,7 @@
 title: Summertime
 date: "2019-08-23"
 author: Patrick Winters
-draft: true
+draft: false
 ---
 
 ![Splash Pad](splash_pad.jpg)
