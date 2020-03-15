@@ -6,6 +6,8 @@ draft: false
 tags: ["pin"]
 ---
 
+_**This is a Work in Progress**_
+
 You might have heard that there was a clinical trial at the Children's Hospital of Philadelphia (CHOP) using the drug baricitinib or (especially if you're outside of the USA) you may have heard about a related drug ruxolitinib. You might have heard that they can put your child's immune system at risk or you might have heard that they haven't been proven to work. If you've been talking to parents of children using these drugs, you've probably heard positive things by now and I would like to help explain what I can. I'll be mostly writing about baricitinib because there's more information, but I would argue that ruxolitinib confers similar benefits.
 
 
