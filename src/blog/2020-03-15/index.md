@@ -31,3 +31,13 @@ When we first discovered that Auri was experiencing brain injury, we were told t
 ## More for Another Time
 
 There's more to share, like how our friend Patrick visited Natalie and Auri one weekend, how my mother in law came from Florida and drove my boys back and forth from school, how I'm going to be alone with them at home this week now that our school system has closed, or how we won't be back in our home for many weeks. If I had been told a few years ago what the pressure would feel like right now, I would have laughed. I suppose humans are incredibly resilient because I'm still grateful for what we have and where we are. Yet, I hope that everyone takes this new threat seriously and that the additional pressure placed on those of us with complex lives doesn't press to hard. Be safe; hole up; have a nice cold pint; and wait for this all to blow over.
+
+![Red Robot](redrobot.png)
+
+![Swingset](swings.png)
+
+![Haircut](haircut.png)
+
+![Haircut Dudes](dudes.png)
+
+![Dudettes](dudettes.png)
