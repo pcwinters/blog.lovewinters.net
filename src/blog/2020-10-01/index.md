@@ -31,4 +31,4 @@ Things still need fixing, like three leaking toilets, a broken mower, a seized d
 And finally, we've resolved to become a camping family. We look at virtual school and remote work as an opportunity to become more mobile. There are quite a few steps to making this happen, but we want get a camper that we can travel with. For now, we've taken to hiking the parks or woods regularly. I purchased a hiking pack to trek with Auri, and we're getting out more. We still have to step off trails all while walking, but we feel alright about it. After my dad came for a visit, we relaxed a bit and got out of the house more. We even order takeout once a week 😉.
 ![Hiking](hiking.jpg)
 
-That's it. Take care of yourselves.
+That's it. Take care of yourselves, and please go vote.
