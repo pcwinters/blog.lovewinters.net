@@ -27,7 +27,7 @@ When we received word that Auri would actually be starting her research trial, I
 
 ## Normalcy
 
-Since Natalie and I completed vaccination in March, we've been able to find a little more normalcy. In all seriousness, neither of us had entered a building (with the exception of the children's hospital) for over a year. We would not have felt comfortable driving/traveling anywhere without the ability to deal with the unexpected. I can do just about anything now without worrying, and it has brought a much needed dose of normalcy into our lives. We're still living differently, with extra cautious; but we're finding ways to use our freedom to make more for the kids.
+Since Natalie and I completed vaccination in March, we've been able to find a little more normalcy. In all seriousness, neither of us had entered a building (with the exception of the children's hospital) for over a year. We would not have felt comfortable driving/traveling anywhere without the ability to deal with the unexpected. I can do just about anything now without worrying, and it has brought a much needed dose of normalcy into our lives. We're still living differently, with extra caution; but we're finding ways to use our freedom to make more for the kids.
 
 ## Projects
 
