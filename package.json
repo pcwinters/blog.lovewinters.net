@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "dependencies": {
-    "gatsby": "^2.1.16",
+    "gatsby": "^2.32.13",
     "gatsby-image": "^2.0.29",
     "gatsby-plugin-feed": "^2.0.13",
     "gatsby-plugin-manifest": "^2.0.18",
